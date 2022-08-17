@@ -13,7 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagarbhavsar1](https://github.com/sagarbhavsar1)
 
-- 💬 Ask me about **C,C++,python,sql,dsa**
 
 - 📫 How to reach me **sb7908@srmist.edu.in**
 

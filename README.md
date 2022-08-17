@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarbhavsar1" alt="sagarbhavsar1" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **my Data science Portfolio**
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **Data Science/ML/Ai**
 
 - 👯 I’m looking to collaborate on **mini projects**
 

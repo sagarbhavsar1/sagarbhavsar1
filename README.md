@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist and GenAi engineer, currently pursuing my Masters in New York University</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbhavsar1&label=Profile%20viewstoday&color=0e75b6&style=flat" alt="sagarbhavsar1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbhavsar1&label=Profile%20views%20today&color=0e75b6&style=flat" alt="sagarbhavsar1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dc5212" alt="sagarbhavsar1" /></a> </p>
 

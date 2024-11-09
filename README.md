@@ -20,7 +20,7 @@
 - 📫 You can reach out to me at **sb9568@nyu.edu**
 
 -  [HERE's](https://sagarbhavsar.carrd.co/) WHERE YOU CAN GET MY COMPLETE AND UP-TO DATE PROFILE.
-- 
+  
 - ⚡ Fun fact **I am also quite a pro on the Table Tennis Courts🏓 :)**
 
 <h3 align="left">Connect with me:</h3>

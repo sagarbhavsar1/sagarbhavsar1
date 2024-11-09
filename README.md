@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋 I'm Sagar Bhavsar</h1>
+<h1 align="center">Hi 👋 I'm Sagar Bhavsar, welcome to my github</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhaditya1603&label=Profile%20views&color=0e75b6&style=flat" alt="sagarbhavsar1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarbhavsar1" alt="sagarbhavsar1" /></a> </p>
 
-- 🔭 I’m currently working on **my Data science Portfolio**
-
-- 🌱 I’m currently learning **Data Science/ML/Ai**
+- 🔭 I’m currently working on **my Data science and Ai Portfolio**
 
 - 👯 I’m looking to collaborate on **mini projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagarbhavsar1](https://github.com/sagarbhavsar1)
 
 
-- 📫 How to reach me **sb7908@srmist.edu.in**
+- 📫 You can reach out to me at **sb9568@nyu.edu**
 
+-  [HERE's](https://sagarbhavsar.carrd.co/) WHERE YOU CAN GET MY COMPLETE AND UP-TO DATE PROFILE.
 
 
 <h3 align="left">Connect with me:</h3>

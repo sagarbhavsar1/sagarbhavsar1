@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Bhavsar</h1>
-<h3 align="center">A passionate Data Scientist and GenAi engineer, currently pursuing my Masters in New York University</h3>
+<h3 align="center">A passionate Data Scientist and Ai engineer, currently pursuing my Masters in New York University</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarbhavsar1&label=Profile%20views%20this%20month&color=0e75b6&style=flat" alt="sagarbhavsar1" /> </p>

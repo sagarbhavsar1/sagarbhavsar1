@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **my Data science and Ai Portfolio**
 
-- 👯 I’m looking to collaborate on **mini projects**
+- 🕺 I’m looking to collaborate on **mini projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagarbhavsar1](https://github.com/sagarbhavsar1)
 

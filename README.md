@@ -22,7 +22,7 @@
 
 -  [HERE's](https://sagarbhavsar.carrd.co/) WHERE YOU CAN GET MY COMPLETE AND UP-TO DATE PROFILE.
   
-- ⚡ Fun fact **I am also quite a pro on the Table Tennis Courts🏓 :)**
+- ⚡ Fun Fact **You can find me on the table tennis🏓 courts when I'm not on here:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
